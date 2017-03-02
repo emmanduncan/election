@@ -13,7 +13,7 @@ The 2016 U.S. presidential election yielded an unexpected result for many - whil
 ## IPython notebooks
 There are two IPython notebooks in this repository: [Election 2016 (Bokeh)](../master/Election 2016 (Bokeh).ipynb) and [Election 2016 (Plotly)](../master/Election 2016 (Plotly).ipynb).
 + Election 2016 (Bokeh) was the initial iteration, built upon the data visualization package [Bokeh](http://bokeh.pydata.org/en/latest/#). Though Bokeh is a beautiful package with straightforward syntax, we ran into some major roadblocks with the lack of documentation and crucial missing features.
-+ Election 2016 (Plotly) is the current iterattion, using the data visualization package [Plotly](https://plot.ly). Plotly supports a variety of chart types, complete with [detailed documentation for Python](https://plot.ly/python/). If you are interested in porting the project into another language, Plotly also supports R, Matlab, and Excel, among others.
++ Election 2016 (Plotly) is the current iteraiotn, using the data visualization package [Plotly](https://plot.ly). Plotly supports a variety of chart types, complete with [detailed documentation for Python](https://plot.ly/python/). If you are interested in porting the project into another language, Plotly also supports R, Matlab, and Excel, among others.
 
 ## System requirements
 ### Anaconda Virtual Environments
@@ -43,7 +43,7 @@ deactivate [envname]
 For more information regarding virtual environments, reference the [official Conda documentation](https://conda.io/docs/using/envs.html).
 
 ### Plotly
-Plotly for Python requires an account and an API key, both of which are available on the free tier plan. Though the free tier plan is limited to 250 API calls per day, it offers the same amenities as paid tiers.
+Plotly for Python requires an account and an API key, both of which are available on the free tier plan. Though the free tier plan is limited to 250 API calls per day, it offers access to the same amenities as paid tiers.
 Once an account has been made and an API key has been acquired, Plotly can be activated within the script using the code:
 ```python
 import plotly.plotly as py
