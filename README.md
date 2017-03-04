@@ -12,9 +12,9 @@ The 2016 U.S. presidential election yielded an unexpected result for many - whil
 
 ## IPython notebooks
 There are three IPython notebooks in this repository: [Election 2016 (Bokeh)](../master/Election 2016 (Bokeh).ipynb) and [Election 2016 (Plotly)](../master/Election 2016 (Plotly).ipynb), and [Election 2016](../master/Election 2016.ipynb).
-+ Election 2016 (Bokeh).ipynb was the initial iteration, built upon the data visualization package [Bokeh](http://bokeh.pydata.org/en/latest/#). Though Bokeh is a beautiful package with straightforward syntax, we ran into some major roadblocks with the lack of documentation and crucial missing features.
-+ Election 2016 (Plotly).ipynb is the code for the current iteration, using the data visualization package [Plotly](https://plot.ly). Plotly supports a variety of chart types, complete with [detailed documentation for Python](https://plot.ly/python/). If you are interested in porting the project into another language, Plotly also supports R, Matlab, and Excel, among others.
-+ The final presentation of the project is available on Election 2016.ipynb. It includes explanations for data visualization, and the process through which the dataset was cleaned.
++ Election 2016 (Bokeh) was the initial iteration, built upon the data visualization package [Bokeh](http://bokeh.pydata.org/en/latest/#). Though Bokeh is a beautiful package with straightforward syntax, we ran into some major roadblocks with the lack of documentation and crucial missing features.
++ Election 2016 (Plotly) is the code for the current iteration, using the data visualization package [Plotly](https://plot.ly). Plotly supports a variety of chart types, complete with [detailed documentation for Python](https://plot.ly/python/). If you are interested in porting the project into another language, Plotly also supports R, Matlab, and Excel, among others.
++ The final presentation of the project is available on Election 2016. It includes explanations for data visualization, and the process through which the dataset was cleaned.
 
 ## System requirements
 ### Anaconda Virtual Environments
