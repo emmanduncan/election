@@ -1,12 +1,12 @@
-# election
+# Election 2016
+## Exploratory Poll Analysis
 
 ### Contributors
 + Jun Seo Park
-+ Athan Diep
 + Emma Duncan
 
 ## Abstract
-The 2016 U.S. presidential election yielded an unexpected result for many - while an overwhelming majority of polls were thought to point to Hillary Clinton as the winner, Donald Trump emerged the victor. In this project, we dive into the election poll data provided by [FiveThirtyEight](https://projects.fivethirtyeight.com/2016-election-forecast/) with the goal of visualizing the data to see where the predictions may have gone awry. 
+The 2016 U.S. presidential election yielded an unexpected result for many - while an overwhelming majority of polls pointed to Hillary Clinton as the winner, Donald Trump eventually emerged the victor. In this project, we dive into the election poll data provided by [FiveThirtyEight]()https://projects.fivethirtyeight.com/2016-election-forecast/ with the goal of visualizing the data to gain insight about polling accuracy leading up to the election.
 + We used IPython notebooks to write our script, and the final product can be found on [Election 2016.ipynb](../master/Election 2016.ipynb). More information about the two IPython notebooks can be found below.
 + We have included both a .zip and .csv of the election poll data in the repository. If you wish to download or import the dataset using a link, it is available at [http://projects.fivethirtyeight.com/general-model/president_general_polls_2016.csv](http://projects.fivethirtyeight.com/general-model/president_general_polls_2016.csv).
 
