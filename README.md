@@ -7,11 +7,11 @@
 
 ## Abstract
 The 2016 U.S. presidential election yielded an unexpected result for many - while an overwhelming majority of polls pointed to Hillary Clinton as the winner, Donald Trump eventually emerged the victor. In this project, we dive into the election poll data provided by [FiveThirtyEight](https://projects.fivethirtyeight.com/2016-election-forecast/) with the goal of visualizing the data to gain insight about polling accuracy leading up to the election.
-+ We used IPython notebooks to write our script, and the final product can be found on [Election 2016.ipynb](../master/Election 2016.ipynb). More information about the two IPython notebooks can be found below.
++ We used IPython notebooks to write our script, and the final product can be found on Election 2016.ipynb. More information about the two IPython notebooks can be found below.
 + We have included both a .zip and .csv of the election poll data in the repository. If you wish to download or import the dataset using a link, it is available at [http://projects.fivethirtyeight.com/general-model/president_general_polls_2016.csv](http://projects.fivethirtyeight.com/general-model/president_general_polls_2016.csv).
 
 ## IPython notebooks
-There are two IPython notebooks in this repository: [Election 2016](../master/Election 2016.ipynb) and [Election 2016 (Bokeh)](../master/Election 2016 (Bokeh).ipynb). 
+There are two IPython notebooks in this repository: Election 2016.ipynb and Election 2016 (Bokeh).ipynb. 
 + Election 2016 is the main/current iteration, using the data visualization package [Plotly](https://plot.ly). Plotly supports a variety of chart types, complete with [detailed documentation for Python](https://plot.ly/python/). If you are interested in porting the project into another language, Plotly also supports R, Matlab, and Excel, among others.
 + Election 2016 (Bokeh) was the initial iteration, built upon the data visualization package [Bokeh](http://bokeh.pydata.org/en/latest/#). Though Bokeh is a beautiful package with straightforward syntax, we ran into some major roadblocks with the lack of documentation and crucial missing features.
 
